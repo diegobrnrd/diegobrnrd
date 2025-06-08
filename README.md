@@ -39,6 +39,11 @@ Alguns dos meus projetos mais recentes ou importantes:
 
   🛠 **Tecnologias utilizadas:** Python, Pandas, Scikit-Learn, Streamlit.
 
+- [**Projeto 3: Travelling-Salesman-Problem**](https://github.com/diegobrnrd/FlyFood)  
+  🚀 Desenvolvimento de algoritmos de roteamento para drones de entrega, buscando minimizar o custo do trajeto ao percorrer todos os pontos de entrega em uma cidade. Inicialmente, foi implementado um algoritmo de força bruta utilizando a distância de Manhattan. Posteriormente, foram aplicados métodos avançados, incluindo o algoritmo do vizinho mais próximo e um algoritmo genético, para otimizar a eficiência do percurso.  
+
+  🛠 **Tecnologias utilizadas:** Python, Matplotlib.
+
 Para ver a lista completa dos meus repositórios, visite a [aba de repositórios](https://github.com/diegobrnrd?tab=repositories).
 
 ---
