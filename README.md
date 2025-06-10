@@ -33,7 +33,7 @@ Alguns dos meus projetos mais recentes ou importantes:
 
   🛠 **Tecnologias utilizadas:** Flutter, Firebase, Supabase, API TMDB, OpenStreetMap.
 
-- [**Projeto 2: Aprendizado de Máquina Aplicado a dados da TMDB**](https://github.com/lpauloaraujo/projeto-pisi3)  
+- [**Projeto 2: Aprendizado de Máquina aplicado a dados da TMDB**](https://github.com/lpauloaraujo/projeto-pisi3)  
   🧠 Projeto focado na análise e modelagem de dados do The Movie Database (TMDB). Inclui desde a exploração e tratamento dos dados até a aplicação de algoritmos de Machine Learning para clusterização e classificação. Além disso, foram gerados gráficos para interpretação dos resultados e desenvolvida uma aplicação web em Streamlit para visualização interativa dos insights.  
 
   🛠 **Tecnologias utilizadas:** Python, Pandas, Scikit-Learn, Streamlit.
