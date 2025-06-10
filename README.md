@@ -11,8 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia, 
 ## Sobre Mim
 
 - 🌱 Atualmente estou me aprofundando em **JavaScript, React, HTML, CSS** e aprimorando meu **Inglês**.  
-- 👯 Estou aberto à colaboração em projetos relacionados com **desenvolvimento de software e análise de dados**.  
-- 📫 Você pode me encontrar através do [meu email](mailto:exemplo@gmail.com) ou nas redes sociais abaixo.
+- 👯 Estou aberto à colaboração em projetos relacionados com **desenvolvimento de software e análise de dados**.
 
 ---
 
