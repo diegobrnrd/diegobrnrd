@@ -31,7 +31,7 @@ Alguns dos meus projetos mais recentes ou importantes:
 - [**Projeto 1: FilmIn**](https://github.com/diegobrnrd/filmin)  
   📽️ Aplicativo que transforma a experiência cinematográfica em algo interativo e social. Os usuários podem organizar seus filmes em listas personalizadas, escrever reviews e acompanhar cinemas próximos por meio do mapa. Com um sistema de perfis, é possível seguir outros usuários e visualizar suas atividades, incluindo filmes assistidos, desejados, favoritos, além das listas e avaliações compartilhadas.  
 
-  🛠 **Tecnologias utilizadas:** Flutter, Firebase, Supabase, API TMDB, OpenStreetMap.
+  🛠 **Tecnologias utilizadas:** Flutter, Firebase, Supabase, API TMDB.
 
 - [**Projeto 2: Aprendizado de Máquina aplicado a dados da TMDB**](https://github.com/lpauloaraujo/projeto-pisi3)  
   🧠 Projeto focado na análise e modelagem de dados do The Movie Database (TMDB). Inclui desde a exploração e tratamento dos dados até a aplicação de algoritmos de Machine Learning para clusterização e classificação. Além disso, foram gerados gráficos para interpretação dos resultados e desenvolvida uma aplicação web em Streamlit para visualização interativa dos insights.  
