@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia, 
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou me aprofundando em **JavaScript, React, HTML, CSS** e aprimorando meu **Inglês**.  
+- 🌱 Atualmente estou estudando **C#, .NET** e aprimorando meu **Inglês**.  
 - 👯 Estou aberto à colaboração em projetos relacionados com **desenvolvimento de software e análise de dados**.
 
 ---
@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia, 
 
 - **Linguagens:** Python, Dart
 - **Frameworks & Bibliotecas:** Flutter, Pandas, Scikit-Learn  
-- **Banco de Dados:** Firebase, Supabase, MySQL, MongoDB
+- **Banco de Dados:** MySQL, Firebase, Supabase, MongoDB
 - **Ferramentas:** Git, API, Scrum, Figma
 
 ---
