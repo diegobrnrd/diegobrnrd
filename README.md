@@ -3,7 +3,7 @@
 # Olá, eu sou Diego Bernardo! 👋
 
 
-Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia, inovação e desafios que transformam ideias em códigos. Aqui você encontrará meus projetos, experimentos e contribuições para a comunidade.
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, experimentos e contribuições para a comunidade.
 
 
 ---
