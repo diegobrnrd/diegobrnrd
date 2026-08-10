@@ -7,7 +7,7 @@
     d i e g o b r n r d<br>
     systems ⌁ code ⌁ design<br>
     <br>
-    <a href="https://diegobrnrd.github.io/portifolio/">work</a> / <a href="https://www.linkedin.com/in/diegobrnrd/">in</a> / <a href="mailto:diegobsiufrpe@gmail.com">mail</a><br>
+    <a href="https://diegobrnrd.github.io/portfolio/">work</a> / <a href="https://www.linkedin.com/in/diegobrnrd/">in</a> / <a href="mailto:diegobsiufrpe@gmail.com">mail</a><br>
     <br>
     building quietly.
   </samp>
