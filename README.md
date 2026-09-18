@@ -4,8 +4,6 @@
     systems ⌁ code ⌁ design<br>
     <br>
     <a href="https://diegobrnrd.github.io/portfolio/">work</a> / <a href="https://www.linkedin.com/in/diegobrnrd/">in</a> / <a href="mailto:diegobsiufrpe@gmail.com">mail</a><br>
-    <br>
-    building quietly.
   </samp>
 </p>
 
